@@ -1,6 +1,6 @@
 <h1>Hello, I'm Stephanie! <br/><a href="https://github.com/SSRNO">Student</a>, <a href="https://www.linkedin.com/in/stephaniesarno">Cybersecurity Enthusiast</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/SSRNO/LABURL)
   - [Cybersecurity Vulnerability Management](https://github.com/SSRNO/LABURL)
