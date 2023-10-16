@@ -7,7 +7,7 @@
   - [Active Directory Home Lab](https://github.com/SSRNO/LABURL)
   
 
-<h2>Certifications:</h2>
+<h2>📜🎓Certifications:</h2>
 
 - [Google Cybersecurity Professional](https://github.com/SSRNO/LABURL)
 - [NSE 1](https://github.com/SSRNO/LABURL)
