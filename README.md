@@ -7,13 +7,13 @@
   - [Active Directory Home Lab](https://github.com/SSRNO/LABURL)
   
 
-<h2>📜🎓Certifications:</h2>
+<h2>📜🎓 Certifications:</h2>
 
 - [Google Cybersecurity Professional](https://github.com/SSRNO/LABURL)
 - [NSE 1](https://github.com/SSRNO/LABURL)
 - [NSE 2](https://github.com/SSRNO/LABURL)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="StephanieSarno | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
